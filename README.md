@@ -62,6 +62,9 @@ We will be paying using Paypal
 
 Click on complete purchase and your purchase will be done
 
+![Screenshot (9)](https://github.com/CodeClouds-Gaurab/Django-Ecommerce-Store/assets/154874892/8dd6e083-bb64-4f55-8748-67a30ecad3aa)
+
+
 ![Screenshot (10)](https://github.com/CodeClouds-Gaurab/Django-Ecommerce-Store/assets/154874892/68e1bf50-51ce-47e0-af19-4f526e8b0aef)
 
 You will be able to see your order details
